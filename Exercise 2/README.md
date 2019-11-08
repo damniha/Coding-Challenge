@@ -1,7 +1,7 @@
 # Google Interview
 
-The question was about to create a function that you give an **array** and **sum_result**.
-Inside the give array you should find two numbers where their sum is equal to the sum_result.
+The question was about creating a function that takes 2 parameters: an **array** and **sum_result**.
+Inside the given array you should find two numbers where their sum is equal to the sum_result.
 
 ***
 
