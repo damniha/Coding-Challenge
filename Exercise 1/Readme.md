@@ -6,13 +6,13 @@ some:
 **some()** checks if one element inside the array *satisfies* the given condition it stops directly and returns true.
 >Otherwise it returns false after checking all the elements inside the array. It doesn't work with empty arrays.
 
-## Example:
+### Example:
 
 ```js
 var ages = [3, 10, 18, 20];
 
 function checkAdult(age) {
-  `return age >= 18;`
+  return age >= 18;
 }
 
 function myFunction() {
@@ -20,7 +20,7 @@ function myFunction() {
 }
 ```
 
-Expected Output: True bcz 18>=18
+***
 
 every:
 =====
@@ -28,7 +28,7 @@ every:
 In this case, it stops directly and returns false.
 >If no false occur, every() returns true. It doesn't work with empty arrays.
 
-## Example:
+### Example:
 
 ```js
 var ages = [32, 33, 16, 40];
@@ -42,7 +42,8 @@ function myFunction() {
 }
 ```
 
-Expected Output: False bcz 16<18
+***
 
-To know more about **some** [click here](https://www.w3schools.com/jsref/jsref_some.asp)
-To know more about **every** [click here](https://www.w3schools.com/jsref/jsref_every.asp)
+To know more about [**some**](https://www.w3schools.com/jsref/jsref_some.asp)
+>
+To know more about [**every**](https://www.w3schools.com/jsref/jsref_every.asp)
