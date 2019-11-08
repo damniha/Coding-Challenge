@@ -1,9 +1,9 @@
-some () and every() functions are opposite
+some () and every() functions are opposite.
 They are both used with arrays.
 
 some:
 =====
-**some()** checks if one element inside the array *satisfies* the given condition it stops directly and returns true.
+**some()** checks if one element inside the array *satisfies* the given condition.if so, it stops directly and returns true.
 >Otherwise it returns false after checking all the elements inside the array. It doesn't work with empty arrays.
 
 ### Example:
